@@ -1,2 +1,14 @@
 В моей получившейся ветке в файле README.txt присутствует фраза " with nice buttons on his jacket (buttons branch)".
 В ветке demo на месте неё стоит точка.
+
+Файл с отличиями между ветками
+Merge branch 'boots_buttons'
+Merge remote-tracking branch 'origin/hat'
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+fix readme
+dots
+README added
+boots
+heat added
+init
