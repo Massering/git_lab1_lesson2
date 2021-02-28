@@ -1,0 +1,2 @@
+В моей получившейся ветке в файле README.txt присутствует фраза " with nice buttons on his jacket (buttons branch)".
+В ветке demo на месте неё стоит точка.
